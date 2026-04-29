@@ -25,6 +25,7 @@ public class Zmienne {
         char znak = '#';
 
         boolean sun = false; //true
+        // https://github.com/przemjan/czwarta_i_gr_0_r2026_java.git
 
     }
 }
